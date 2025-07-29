@@ -318,8 +318,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 For support and questions:
 - **Email**: support@afyacare.co.ke
-- **GitHub Issues**: [Report bugs or request features](https://github.com/MichaelMusembi/medical-management-system/issues)
-- **Documentation**: [Wiki pages](https://github.com/MichaelMusembi/medical-management-system/wiki)
+- **GitHub Issues**: [Report bugs or request features](https://github.com/MichaelMikekimm/medical-management-system/issues)
+- **Documentation**: [Wiki pages](https://github.com/Mikekimm/medical-management-system/wiki)
 
 ---
 
