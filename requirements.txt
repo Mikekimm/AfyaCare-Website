@@ -1,0 +1,38 @@
+# AfyaCare Medical Appointment System - Requirements
+# 
+# System Requirements:
+# Node.js >= 16.0.0
+# npm >= 7.0.0 (or yarn >= 1.22.0)
+# Modern browser with ES6+ support
+#
+# Installation:
+# npm install
+#
+# Run Development Server:
+# npm run dev
+#
+# Build for Production:
+# npm run build
+
+# Core Dependencies (automatically installed via package.json)
+react@^18.2.0
+react-dom@^18.2.0
+react-router-dom@^6.20.1
+tailwindcss@^3.3.5
+vite@^5.0.0
+
+# UI & Utility Dependencies
+lucide-react@^0.292.0
+react-calendar@^4.6.0
+react-datepicker@^4.21.0
+date-fns@^2.30.0
+
+# Development Dependencies
+@vitejs/plugin-react@^4.1.1
+eslint@^8.53.0
+postcss@^8.4.31
+autoprefixer@^10.4.16
+
+# Demo Accounts:
+# Patient: patient@afyacare.co.ke / demo123
+# Doctor: doctor@afyacare.co.ke / demo123
